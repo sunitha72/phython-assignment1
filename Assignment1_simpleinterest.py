@@ -1,0 +1,6 @@
+#simple interest
+p=int(input("enter the value of p:"))
+t=int(input("enter the value of t:"))
+r=int(input("enter the value of r:"))
+si=((p*t*r)/100)
+print("simple interest:",si)
